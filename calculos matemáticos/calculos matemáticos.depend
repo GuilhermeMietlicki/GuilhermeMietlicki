@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585076782 source:c:\users\lilian e guilherme\desktop\teste\calculos matemáticos\main.c
+	<stdio.h>
+	<stdlib.h>
+

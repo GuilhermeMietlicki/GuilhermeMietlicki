@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="escripteste/escripteste.cbp" />
+		<Project filename="escripttext/escripttext.cbp" />
+		<Project filename="conhecendoprograma/conhecendoprograma.cbp" />
+		<Project filename="ide/ide.cbp" />
+		<Project filename="compilação/compilação.cbp" />
+		<Project filename="blocodecomentário/blocodecomentário.cbp" />
+		<Project filename="variável/variável.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
